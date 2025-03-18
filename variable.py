@@ -76,6 +76,7 @@ else:
 
 zahl1 = 50
 zahl2 = zahl1 << 1 # << für eine bitweise verschiebung nach links, bei binär wird die zahl um eine stelle nach links verschoben
+# also 0010 wird nach 0100 verschoben wenn es binär wäre und dezimal wird es verdoppelt
 
 print (zahl2)
 
